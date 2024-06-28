@@ -18,7 +18,7 @@ Concurrent File Downloader is a command-line tool written in Go for efficiently 
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/4d4r5h/concurrent-file-downloader.git>
+   git clone https://github.com/4d4r5h/concurrent-file-downloader.git
    cd concurrent-file-downloader
    ```
 
